@@ -24,7 +24,7 @@
 
 #' Making plots: Examing household energy use on 2007-02-01 and 2007-02-02
 #'
-#' This script generates the plot1.png as described in:
+#' This script generates the plot3.png as described in:
 #'   https://github.com/ww9rivers/ExData_Plotting1
 
 library(data.table)
